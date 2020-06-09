@@ -1,0 +1,81 @@
+body {
+    font-family: cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+ font-size: 1.2em;
+ text-align: center;
+}
+
+#sprint-1-id {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.sprint-1 {
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
+
+img{
+    height: 225px;
+    margin: 0.5em;
+}
+
+.header-img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.release1p {
+   width: 80%;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+   text-align: center;
+}
+
+hr {
+    width: 80%;
+}
+
+.sprint1hr {
+    width: 50%;
+}
+
+.secondRow {
+    width: 50%; 
+}
+
+#sprint2-id {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.sprint2 {
+    text-align: center;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    margin: 1em;
+}
+
+.card-img {
+    height: 200px;
+}
